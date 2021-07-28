@@ -1,0 +1,1 @@
+# ImageSegmentation : Image segmentation is grouping similar pixels giving them the same label, in this project we used K-Means clustering and spectral clustering and measured the scores using conditional entropy and f-measure, we also modified the clustering to include the spatial features in addiotion to the RGB feature
